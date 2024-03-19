@@ -1,2 +1,1 @@
 # githab.io
-ecologo.png
